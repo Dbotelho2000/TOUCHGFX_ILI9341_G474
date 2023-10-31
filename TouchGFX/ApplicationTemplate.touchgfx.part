@@ -1,0 +1,30 @@
+
+{
+  "Application": {
+    "Name": "TOUCHGFX_ILI9341_G474",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "AvailableColorDepths": [ 16 ],
+    "AvailableLCDs":
+    {
+      "16": "LCD16bpp"
+    },
+    "AvailableResolutions": [
+      {
+        "Width": 240,
+        "Height": 320
+      }
+    ],
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "Family": "STM32G4",
+    "SubFamily": "STM32G4x4",
+    "Platform": "m4",
+    "Toolchain": "STM32CubeIDE",
+    "ProjectFile": "../TOUCHGFX_ILI9341_G474.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [
+    ],
+    "AdditionalFeatures": [
+    ],
+  },
+  "Version": "4.21.4"
+}

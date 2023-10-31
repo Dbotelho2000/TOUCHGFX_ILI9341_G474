@@ -1,0 +1,13 @@
+../DISPLAY/Src/ILI9341.c:39:6:Display_Reset	8	static
+../DISPLAY/Src/ILI9341.c:47:6:Display_On	8	static
+../DISPLAY/Src/ILI9341.c:54:6:Display_Off	8	static
+../DISPLAY/Src/ILI9341.c:61:6:Display_DCS_Send	16	static
+../DISPLAY/Src/ILI9341.c:84:6:Display_DCS_Send_With_Data	16	static
+../DISPLAY/Src/ILI9341.c:128:6:ILI9341_Init	16	static
+../DISPLAY/Src/ILI9341.c:179:6:ILI9341_Set_Area	32	static
+../DISPLAY/Src/ILI9341.c:203:6:ILI9341_Draw_Square	32	static
+../DISPLAY/Src/ILI9341.c:257:6:ILI9341_Draw_Square_DMA	40	static
+../DISPLAY/Src/ILI9341.c:313:6:ILI9341_Draw_Bitmap	40	static
+../DISPLAY/Src/ILI9341.c:368:6:ILI9341_Draw_Bitmap_DMA	40	static
+../DISPLAY/Src/ILI9341.c:432:6:ILI9341_GPIOTE_Callback	8	static
+../DISPLAY/Src/ILI9341.c:454:6:ILI9341_DMA_Callback	8	static
